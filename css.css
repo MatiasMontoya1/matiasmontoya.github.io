@@ -106,3 +106,12 @@ nav >a:hover{
 .img-galeria{
     border: 0px;
 }
+.footer-top-partners {
+    border: 1px solid var(--bui_color_white);
+    border-radius: 3px;
+    color: var(--bui_color_white);
+    display: inline-block;
+    font-weight: normal;
+    padding: 0 15px;
+    text-decoration: none;
+}
