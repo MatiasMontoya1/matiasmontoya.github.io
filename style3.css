@@ -6,3 +6,21 @@
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,98,137,1) 68%, rgba(0,212,255,1) 100%);
 }
+nav{
+    text-align: right;
+    padding: 30px 50px 0 0;
+
+}
+nav >a{
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 10px;
+
+}
+nav >a:hover{
+
+    text-decoration: underline;
+
+
+}
