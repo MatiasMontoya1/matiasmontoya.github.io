@@ -31,8 +31,16 @@ nav >a{
 
 }
 nav >a:hover{
-
+    text-transform: uppercase;
     text-decoration: underline;
+    position: solid;
 
 
+}
+.textito{
+    text-align: center;
+    color: #fff;
+}
+.mapa{
+    text-align: center;
 }
